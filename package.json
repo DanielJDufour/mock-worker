@@ -1,6 +1,6 @@
 {
   "name": "mock-worker",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fake Web Worker for Testing",
   "main": "mock-worker.js",
   "files": [
